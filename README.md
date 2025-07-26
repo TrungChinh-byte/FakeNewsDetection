@@ -9,7 +9,7 @@ A machine learning and deep learning project aimed at detecting fake news articl
 - [Problem Statement](#-problem-statement)
 - [Dataset](#-dataset)
 - [Features](#-features)
-- [Technologies](#-technologies)
+- [Technologies Used](#-technologies-used)
 - [Results](#-results)
 - [Contact](#-contact)
 
@@ -102,7 +102,7 @@ These issues call for context-aware, robust, and ethically responsible solutions
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 - Python 3.10, Jupyter Notebook
 - `pandas`, `numpy` for data processing
