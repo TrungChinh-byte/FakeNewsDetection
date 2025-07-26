@@ -132,6 +132,8 @@ These issues call for context-aware, robust, and ethically responsible solutions
 | XGBoost   | 0.95     | 0.95      | 0.95   | 0.95     |
 | LSTM      | 0.96     | 0.96      | 0.96   | 0.96     |
 
+```
+
 ## 📬 Contact
 Nguyễn Văn Trung Chính – trungchinh19082004@gmail.com
 GitHub: TrungChinh-Byte
