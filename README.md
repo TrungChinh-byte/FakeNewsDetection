@@ -9,7 +9,7 @@ A machine learning and deep learning project aimed at detecting fake news articl
 - [Problem Statement](#-problem-statement)
 - [Dataset](#-dataset)
 - [Features](#-features)
-- [Technologies](#-Technologies)
+- [Technologies](#-technologies)
 - [Results](#-results)
 - [Contact](#-contact)
 
@@ -100,8 +100,6 @@ These issues call for context-aware, robust, and ethically responsible solutions
 - Compare performance of classical vs. deep learning models
 - Visualize confusion matrix, precision-recall tradeoffs
 
-
-
 ---
 
 ## 🛠️ Technologies
@@ -116,7 +114,6 @@ These issues call for context-aware, robust, and ethically responsible solutions
   - Building and training LSTM model (RNN) : `pytorch`
   - Pre-trained Embeddings (en_core_web_sm) : `spacy` 
   
-
 ---
 
 ## ✅ Results
@@ -133,6 +130,8 @@ These issues call for context-aware, robust, and ethically responsible solutions
 | LSTM      | 0.96     | 0.96      | 0.96   | 0.96     |
 
 ```
+
+---
 
 ## 📬 Contact
 Nguyễn Văn Trung Chính – trungchinh19082004@gmail.com
